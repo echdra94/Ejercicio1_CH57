@@ -5,3 +5,4 @@ Lista del super
 4. manzanas
 5. leche deslactosada
 6. pollo
+7.papel
