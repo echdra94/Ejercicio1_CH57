@@ -3,3 +3,5 @@ Lista del super
 2. fresas
 3.queso
 4. manzanas
+5. leche deslactosada
+6. pollo
