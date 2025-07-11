@@ -5,4 +5,7 @@ Lista del super
 4. manzanas
 5. leche deslactosada
 6. pollo
-7.papel
+7. papel
+8. Pastel
+9. Papitas
+10. Salsas
